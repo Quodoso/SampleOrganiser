@@ -1,0 +1,58 @@
+{
+    "fileLoaded": "Dirt-Samples2020-09-14.13:42:36.json",
+    "featureList": [
+        {
+            "MFCC-7": 0.4089776354173794
+        },
+        {
+            "Har-TriChr_-GLCM_10": 0.0673876289507105
+        },
+        {
+            "AutoCorrelation_sig": 0.22596873068252307
+        },
+        {
+            "Har-Log_-GLCM_10": 0.1979682038039589
+        },
+        {
+            "ZeroCrossingRate": 0.3555859090827954
+        },
+        {
+            "Log_SpectralFlux": 0.2854364757600259
+        }
+    ],
+    "delteSampleAbove[s]": 5,
+    "extractLongs": false,
+    "toShort[s]": 0.003,
+    "extractShort": false,
+    "bpmConfidence": 1,
+    "extractLoops": false,
+    "compress": true,
+    "invNegative": true,
+    "scriptMode": "analyseWithGT",
+    "compareFilePath": "../json_data/singleFile/Dirt-SamplesSingle2020-09-13.17:35:03.json",
+    "n_mostSimilar": 25,
+    "optimizer": "HillClimber",
+    "maxHill": 500,
+    "probHill": 1e-07,
+    "modeHill": "small",
+    "predefinedFeatures": true,
+    "defineYoureOwnFeatureSet": [],
+    "suboptimalSearch": [
+        true,
+        0.3,
+        0.8
+    ],
+    "nBest": 7,
+    "calcAllFeatures": false,
+    "nCluster": 40,
+    "clusterAlgo": "Hierarch",
+    "hierarchMode": "average",
+    "dirName": "../json_data/",
+    "fileName": "Dirt-Samples2020-09-14.13:42:36.json",
+    "saveFolder": "../estimateSongs/",
+    "copyFilesToFolder": false,
+    "graphviz": false,
+    "graphvizMode": "minimalSpan",
+    "assign_labels": "kmeans",
+    "eigen_solver": "amg"
+}

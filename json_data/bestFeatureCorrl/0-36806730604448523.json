@@ -1,0 +1,67 @@
+{
+    "fileLoaded": "Dirt-Samples2020-09-14.13:42:36.json",
+    "featureList": [
+        {
+            "Log_AutoCorrelation": 0.009901947883474163
+        },
+        {
+            "Har-Mel96_-FACM_8": 0.16261468152659825
+        },
+        {
+            "TriChr_EssEntropy": 0.21539090486225054
+        },
+        {
+            "RecChr_AutoCorrelation": 0.18122790171142175
+        },
+        {
+            "TriChr_skewness": 0.199664497558939
+        },
+        {
+            "Har-TriChr_-FACM_8": 0.06617893264180046
+        },
+        {
+            "Har-Mel96_-GLCM_3": 0.11055582402812343
+        },
+        {
+            "Lin_SpectralComplex": 0.027054216451671862
+        },
+        {
+            "Har-Log_-FACM_10": 0.5338620705935813
+        }
+    ],
+    "delteSampleAbove[s]": 5,
+    "extractLongs": false,
+    "toShort[s]": 0.003,
+    "extractShort": false,
+    "bpmConfidence": 1,
+    "extractLoops": false,
+    "compress": true,
+    "invNegative": true,
+    "scriptMode": "analyseWithGT",
+    "compareFilePath": "../json_data/singleFile/Dirt-SamplesSingle2020-09-13.17:35:03.json",
+    "n_mostSimilar": 25,
+    "optimizer": "HillClimber",
+    "maxHill": 500,
+    "probHill": 1e-07,
+    "modeHill": "small",
+    "predefinedFeatures": true,
+    "defineYoureOwnFeatureSet": [],
+    "suboptimalSearch": [
+        true,
+        0.3,
+        0.8
+    ],
+    "nBest": 7,
+    "calcAllFeatures": false,
+    "nCluster": 40,
+    "clusterAlgo": "Hierarch",
+    "hierarchMode": "average",
+    "dirName": "../json_data/",
+    "fileName": "Dirt-Samples2020-09-14.13:42:36.json",
+    "saveFolder": "../estimateSongs/",
+    "copyFilesToFolder": false,
+    "graphviz": false,
+    "graphvizMode": "minimalSpan",
+    "assign_labels": "kmeans",
+    "eigen_solver": "amg"
+}

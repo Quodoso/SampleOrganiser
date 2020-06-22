@@ -1,0 +1,82 @@
+{
+    "fileLoaded": "Dirt-Samples2020-09-14.13:42:36.json",
+    "featureList": [
+        {
+            "Har-TriChr_-FACM_7": 0.1204718079614744
+        },
+        {
+            "Har-Log_-FACM_4": 0.17009785509920622
+        },
+        {
+            "Log_Centroid": 0.2879732990683828
+        },
+        {
+            "Har-Log_-FACM_7": 0.3169352896952362
+        },
+        {
+            "Bark28_kurtosis": 0.14982092262033314
+        },
+        {
+            "Log_SpectralComplex": 0.24499736462060526
+        },
+        {
+            "Bark28_spread": 0.07412532868021304
+        },
+        {
+            "Mel96_StrongPeak": 0.11186565040586698
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Bark28_flatness": NaN
+        },
+        {
+            "Mel96_RollOff": NaN
+        }
+    ],
+    "delteSampleAbove[s]": 5,
+    "extractLongs": false,
+    "toShort[s]": 0.003,
+    "extractShort": false,
+    "bpmConfidence": 1,
+    "extractLoops": false,
+    "compress": true,
+    "invNegative": true,
+    "scriptMode": "analyseWithGT",
+    "compareFilePath": "../json_data/singleFile/Dirt-SamplesSingle2020-09-13.17:35:03.json",
+    "n_mostSimilar": 25,
+    "optimizer": "HillClimber",
+    "maxHill": 500,
+    "probHill": 1e-07,
+    "modeHill": "small",
+    "predefinedFeatures": true,
+    "defineYoureOwnFeatureSet": [],
+    "suboptimalSearch": [
+        true,
+        0.3,
+        0.8
+    ],
+    "nBest": 7,
+    "calcAllFeatures": false,
+    "nCluster": 40,
+    "clusterAlgo": "Hierarch",
+    "hierarchMode": "average",
+    "dirName": "../json_data/",
+    "fileName": "Dirt-Samples2020-09-14.13:42:36.json",
+    "saveFolder": "../estimateSongs/",
+    "copyFilesToFolder": false,
+    "graphviz": false,
+    "graphvizMode": "minimalSpan",
+    "assign_labels": "kmeans",
+    "eigen_solver": "amg"
+}

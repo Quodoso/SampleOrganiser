@@ -1,0 +1,61 @@
+{
+    "fileLoaded": "Dirt-Samples2020-09-14.13:42:36.json",
+    "featureList": [
+        {
+            "Har-Mel96_-FACM_9": 0.197928385669535
+        },
+        {
+            "Har-TriChr_-FACM_10": 0.44177218436767207
+        },
+        {
+            "Har-RecChr_-FACM_4": 0.19180104442704032
+        },
+        {
+            "RecChr_EssEntropy": 0.13669919209107634
+        },
+        {
+            "MFCC-6": 0.16060941856814387
+        },
+        {
+            "Bark28_SpectralFlux": 0.09232867859266336
+        },
+        {
+            "Rhythm13-bpm": 0.02015406542951926
+        }
+    ],
+    "delteSampleAbove[s]": 5,
+    "extractLongs": false,
+    "toShort[s]": 0.003,
+    "extractShort": false,
+    "bpmConfidence": 1,
+    "extractLoops": false,
+    "compress": true,
+    "invNegative": true,
+    "scriptMode": "analyseWithGT",
+    "compareFilePath": "../json_data/singleFile/Dirt-SamplesSingle2020-09-13.17:35:03.json",
+    "n_mostSimilar": 25,
+    "optimizer": "HillClimber",
+    "maxHill": 500,
+    "probHill": 1e-07,
+    "modeHill": "small",
+    "predefinedFeatures": true,
+    "defineYoureOwnFeatureSet": [],
+    "suboptimalSearch": [
+        true,
+        0.3,
+        0.8
+    ],
+    "nBest": 7,
+    "calcAllFeatures": false,
+    "nCluster": 40,
+    "clusterAlgo": "Hierarch",
+    "hierarchMode": "average",
+    "dirName": "../json_data/",
+    "fileName": "Dirt-Samples2020-09-14.13:42:36.json",
+    "saveFolder": "../estimateSongs/",
+    "copyFilesToFolder": false,
+    "graphviz": false,
+    "graphvizMode": "minimalSpan",
+    "assign_labels": "kmeans",
+    "eigen_solver": "amg"
+}

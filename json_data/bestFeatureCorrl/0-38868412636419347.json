@@ -1,0 +1,64 @@
+{
+    "fileLoaded": "Dirt-Samples2020-09-14.13:42:36.json",
+    "featureList": [
+        {
+            "Bark28_Centroid": 0.4584890200791951
+        },
+        {
+            "Har-Mel96_-FACM_5": 0.03047928937420479
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Har-Log_-FACM_9": 0.31835198820579647
+        },
+        {
+            "Har-Bark28_-GLCM_3": 0.07565396607463563
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        },
+        {
+            "Mel96_SpectralComplex": 0.05803858167609996
+        }
+    ],
+    "delteSampleAbove[s]": 5,
+    "extractLongs": false,
+    "toShort[s]": 0.003,
+    "extractShort": false,
+    "bpmConfidence": 1,
+    "extractLoops": false,
+    "compress": true,
+    "invNegative": true,
+    "scriptMode": "analyseWithGT",
+    "compareFilePath": "../json_data/singleFile/Dirt-SamplesSingle2020-09-13.17:35:03.json",
+    "n_mostSimilar": 25,
+    "optimizer": "HillClimber",
+    "maxHill": 500,
+    "probHill": 1e-07,
+    "modeHill": "small",
+    "predefinedFeatures": true,
+    "defineYoureOwnFeatureSet": [],
+    "suboptimalSearch": [
+        true,
+        0.3,
+        0.9
+    ],
+    "nBest": 7,
+    "calcAllFeatures": false,
+    "nCluster": 40,
+    "clusterAlgo": "Hierarch",
+    "hierarchMode": "average",
+    "dirName": "../json_data/",
+    "fileName": "Dirt-Samples2020-09-14.13:42:36.json",
+    "saveFolder": "../estimateSongs/",
+    "copyFilesToFolder": false,
+    "graphviz": false,
+    "graphvizMode": "minimalSpan",
+    "assign_labels": "kmeans",
+    "eigen_solver": "amg"
+}

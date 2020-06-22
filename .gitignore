@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# no wav files
+*.wav
+*.WAV
+./gt_order/*
+./groundTruth/unLabeld/*
+./estimateSongs/*
+/build/*
+/dist/*
+/nbproject/private
+#no python cacge
+
+visualisationScripts/__pycache__/*
+visualisationScripts/__pycache__/
+*.pyc

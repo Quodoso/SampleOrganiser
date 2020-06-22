@@ -1,0 +1,94 @@
+{
+    "fileLoaded": "Dirt-Samples2020-09-14.13:42:36.json",
+    "featureList": [
+        {
+            "AutoCorrelation_sig": 0.22596873068252307
+        },
+        {
+            "Bark28_AutoCorrelation": 0.28085764780798994
+        },
+        {
+            "Har-Bark28_-FACM_2": 0.0068070847046321015
+        },
+        {
+            "Har-Bark28_-FACM_3": 0.048863942861530764
+        },
+        {
+            "Har-Bark28_-GLCM_6": NaN
+        },
+        {
+            "Har-Log_-FACM_7": 0.3169352896952362
+        },
+        {
+            "Har-Log_-FACM_9": 0.31835198820579647
+        },
+        {
+            "Har-Log_-GLCM_11": 0.08488713361341099
+        },
+        {
+            "Har-Mel96_-FACM_3": 0.023075521548980044
+        },
+        {
+            "Har-Mel96_-GLCM_7": 0.1678951097127202
+        },
+        {
+            "Har-Mel96_-GLCM_9": 0.1681058307112784
+        },
+        {
+            "Har-RecChr_-GLCM_2": 0.04164998606897676
+        },
+        {
+            "Har-TriChr_-FACM_5": 0.030257101260334218
+        },
+        {
+            "MFCC-1": 0.03177820283212231
+        },
+        {
+            "MFCC-11": 0.3373670374083656
+        },
+        {
+            "MFCC-4": 0.4210362890893467
+        },
+        {
+            "Mel96_StrongPeak": 0.11186565040586698
+        },
+        {
+            "TriChr_StrongPeak": 0.1368634996358541
+        }
+    ],
+    "delteSampleAbove[s]": 5,
+    "extractLongs": false,
+    "toShort[s]": 0.003,
+    "extractShort": false,
+    "bpmConfidence": 1,
+    "extractLoops": false,
+    "compress": true,
+    "invNegative": true,
+    "scriptMode": "analyseWithGT",
+    "compareFilePath": "../json_data/singleFile/Dirt-SamplesSingle2020-09-13.17:35:03.json",
+    "n_mostSimilar": 25,
+    "optimizer": "HillClimber",
+    "maxHill": 500,
+    "probHill": 1e-07,
+    "modeHill": "big",
+    "predefinedFeatures": true,
+    "defineYoureOwnFeatureSet": [],
+    "suboptimalSearch": [
+        true,
+        0.3,
+        0.8
+    ],
+    "nBest": 7,
+    "calcAllFeatures": false,
+    "nCluster": 40,
+    "clusterAlgo": "Hierarch",
+    "hierarchMode": "average",
+    "dirName": "../json_data/",
+    "fileName": "Dirt-Samples2020-09-14.13:42:36.json",
+    "saveFolder": "../estimateSongs/",
+    "copyFilesToFolder": false,
+    "graphviz": false,
+    "graphvizMode": "minimalSpan",
+    "assign_labels": "kmeans",
+    "eigen_solver": "amg"
+}

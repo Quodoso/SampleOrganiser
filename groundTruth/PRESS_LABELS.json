@@ -1,0 +1,1265 @@
+{
+  "file_amount": 180,
+  "files": [
+    {
+      "dir_name": "Pres",
+      "file_name": "000_DR55_hi_hat.wav",
+      "label_01": "Hi-hat",
+      "label_02": "Bass_drum",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "001_DR55_kick.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Writing"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "002_DR55_rimshot.wav",
+      "label_01": "Telephone",
+      "label_02": "Finger_snapping",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "003_DR55_snare.wav",
+      "label_01": "Snare_drum",
+      "label_02": "Hi-hat",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "BELLS_OF_DX_SZ_TRIC_L_07_46_74_-_49_17.wav",
+      "label_01": "Violin_or_fiddle",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Shatter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "BIG_BEN_DIGI_SZ_TRIC_L_07_46_74_-_49_17.wav",
+      "label_01": "Violin_or_fiddle",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Shatter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "BIG_SCRAP_S_RHAP_P_01_04_09.wav",
+      "label_01": "Fireworks",
+      "label_02": "Gong",
+      "label_03": "Gunshot_or_gunfire"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "BIRDY_K_K_LAP_L_05_29_08.wav",
+      "label_01": "Acoustic_guitar",
+      "label_02": "Squeak",
+      "label_03": "Chime"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "BIRD_HI_S_LIST_FX_07_15_70.wav",
+      "label_01": "Squeak",
+      "label_02": "Telephone",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "BUTTERFLYS_HEAD_L_03_35_00.wav",
+      "label_01": "Flute",
+      "label_02": "Saxophone",
+      "label_03": "Clarinet"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CASPER_SZ_AGNT_L_00_01_07_82_-_10_28.wav",
+      "label_01": "Cowbell",
+      "label_02": "Gong",
+      "label_03": "Laughter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CENTAURI_PARTY_2SZ_MIRAC_L_06_24_96_-_26_93.wav",
+      "label_01": "Tambourine",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Cowbell"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CENTAURI_SZ_MIRAC_L_06_20_79_-_24_61.wav",
+      "label_01": "Snare_drum",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Cowbell"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "COME_ON__K_LAP_L_16_28_89.wav",
+      "label_01": "Acoustic_guitar",
+      "label_02": "Squeak",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CPUSELESS_SZ_ENTER_L_02_28_15_.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Squeak",
+      "label_03": "Bark"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CRASH_TOYK_NOR_L_10_23_03.wav",
+      "label_01": "Saxophone",
+      "label_02": "Gong",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CRICKET_CHURCH_2_K_POKO_L_15_04_08.wav",
+      "label_01": "Gong",
+      "label_02": "Trumpet",
+      "label_03": "Meow"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CRICKET_CHURCH_K_POKO_L_14_52_21.wav",
+      "label_01": "Gong",
+      "label_02": "Trumpet",
+      "label_03": "Writing"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CRICKET_GOSSIP_2S_VIEW_L_03_54_93.wav",
+      "label_01": "Squeak",
+      "label_02": "Tearing",
+      "label_03": "Writing"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CRICKET_GOSSIP_S_VIEW_L_03_49_48.wav",
+      "label_01": "Tearing",
+      "label_02": "Squeak",
+      "label_03": "Writing"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "CRYSTAL_SZ_ENTER_04_44_70.wav",
+      "label_01": "Hi-hat",
+      "label_02": "Tambourine",
+      "label_03": "Keys_jangling"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "DEEP_SPACE_S_VIEW_L_06_44_43.wav",
+      "label_01": "Bark",
+      "label_02": "Flute",
+      "label_03": "Trumpet"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "DIGI_DOGZ_K_NOR_L_04_16_61.wav",
+      "label_01": "Laughter",
+      "label_02": "Fireworks",
+      "label_03": "Bark"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "DIGI_SHOWERK_ROB_L_05_09_10.wav",
+      "label_01": "Cowbell",
+      "label_02": "Laughter",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "DIGI_SHOWER_2K_ROB_L_05_18_02_.wav",
+      "label_01": "Cowbell",
+      "label_02": "Squeak",
+      "label_03": "Shatter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "DRACULA_S_VOY_L_00_30_06.wav",
+      "label_01": "Bus",
+      "label_02": "Electric_piano",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "DRUNK_DRONE_K_NOR_L_15_31_2.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ELVES_S_LIST_L_08_57_95.wav",
+      "label_01": "Telephone",
+      "label_02": "Bark",
+      "label_03": "Laughter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "EROSION_K_RESZT_L_04_12_34.wav",
+      "label_01": "Writing",
+      "label_02": "Laughter",
+      "label_03": "Knock"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ETERNAL_DRONE_2S_VOY_O_04_18_46-001.wav",
+      "label_01": "Gong",
+      "label_02": "Electric_piano",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ETERNAL_DRONE_3S_VOY_O_04_25_23-001.wav",
+      "label_01": "Electric_piano",
+      "label_02": "Telephone",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ETERNAL_DRONE_4_S_VOY_O_04_32_09-001.wav",
+      "label_01": "Telephone",
+      "label_02": "Electric_piano",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "FLUTEY_SZ_PULS_L_00_04_56_13_-__59_62.wav",
+      "label_01": "Flute",
+      "label_02": "Gong",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "FUNKY_JAM_K_LAP_L_18_55_01.wav",
+      "label_01": "Acoustic_guitar",
+      "label_02": "Squeak",
+      "label_03": "Fart"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "GHOST_GONG_S_HEAD_L_06_04_29.wav",
+      "label_01": "Telephone",
+      "label_02": "Double_bass",
+      "label_03": "Flute"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "GONG_BENDED_SZ_MIRAC_O_07_22_32_-_25_50.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "GOSSIP_S_VIEW_L_02_37_78.wav",
+      "label_01": "Fireworks",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "HIROSHIMA_S_HEAD_L_16_48_21.wav",
+      "label_01": "Bus",
+      "label_02": "Chime",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "HOWLIN_K_ROB_L_04_58_08.wav",
+      "label_01": "Gong",
+      "label_02": "Flute",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "HUNGRY_CASPER_SZ_AGNT_L_00_03_14_25_-_16_29.wav",
+      "label_01": "Cowbell",
+      "label_02": "Meow",
+      "label_03": "Flute"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "INTERCOM_SZ_ENTER_04_39_42.wav",
+      "label_01": "Squeak",
+      "label_02": "Hi-hat",
+      "label_03": "Tambourine"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "JAMMIN_K_LAP_L_18_10_23.wav",
+      "label_01": "Fart",
+      "label_02": "Cough",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "JUNGLES_HEAD_P_15_38_26.wav",
+      "label_01": "Telephone",
+      "label_02": "Violin_or_fiddle",
+      "label_03": "Bark"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "KIK_CRUNCHSZ_ENTER_P_04_51_33.wav",
+      "label_01": "Fart",
+      "label_02": "Knock",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "KIK_WEAK_SZ_ENTER_04_39_94.wav",
+      "label_01": "Burping_or_eructation",
+      "label_02": "Knock",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "KRAFT_SZ_POINT1_L_00_05_30-33.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Microwave_oven"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_LAP_P_23_15_39.wav",
+      "label_01": "Burping_or_eructation",
+      "label_02": "Bass_drum",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_OLD_FX_08_14_79-001.wav",
+      "label_01": "Gong",
+      "label_02": "Electric_piano",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_OLD_P_02_24_93.wav",
+      "label_01": "Gong",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Violin_or_fiddle"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_POKO_O_12_45_83-001.wav",
+      "label_01": "Cello",
+      "label_02": "Double_bass",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_RESZT_06_53_99-001.wav",
+      "label_01": "Gong",
+      "label_02": "Laughter",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_RESZT_FX_03_27_28-001.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Fart",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_ROB_FX_02_32_11-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Keys_jangling",
+      "label_03": "Cowbell"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_ROB_FX_02_40_06-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Shatter",
+      "label_03": "Cowbell"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_ROB_FX_03_26_00-001.wav",
+      "label_01": "Tearing",
+      "label_02": "Fart",
+      "label_03": "Shatter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_ROB_FX_03_42_05-001.wav",
+      "label_01": "Tearing",
+      "label_02": "Fart",
+      "label_03": "Gunshot_or_gunfire"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_ROB_P_00_03_07.wav",
+      "label_01": "Hi-hat",
+      "label_02": "Cough",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_ROB_P_00_20_13.wav",
+      "label_01": "Gong",
+      "label_02": "Snare_drum",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_01_25_13-001.wav",
+      "label_01": "Fireworks",
+      "label_02": "Gong",
+      "label_03": "Gunshot_or_gunfire"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_01_39_48-001.wav",
+      "label_01": "Violin_or_fiddle",
+      "label_02": "Double_bass",
+      "label_03": "Burping_or_eructation"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_02_06_61-001.wav",
+      "label_01": "Double_bass",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_02_27_25-001.wav",
+      "label_01": "Gong",
+      "label_02": "Snare_drum",
+      "label_03": "Meow"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_3_FX_02_00_37_.wav",
+      "label_01": "Fireworks",
+      "label_02": "Gong",
+      "label_03": "Bark"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_3_FX_05_23_65.wav",
+      "label_01": "Gong",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "K_STUD_3_FX_05_26_61-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "LASER_SHOWER_S_LIST_L_12_35_45.wav",
+      "label_01": "Tearing",
+      "label_02": "Squeak",
+      "label_03": "Applause"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "LIQUID_TIMEK_POKO_L_04_42_97.wav",
+      "label_01": "Electric_piano",
+      "label_02": "Double_bass",
+      "label_03": "Knock"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "LOCOMOTIVE_SZ_ENTER_L_01_30_22.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Snare_drum",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "LOST_ELF_S_LIST_L_09_18_27.wav",
+      "label_01": "Telephone",
+      "label_02": "Laughter",
+      "label_03": "Flute"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "LOWEST_ENDK_RESZT_L_07_13_36.wav",
+      "label_01": "Bus",
+      "label_02": "Gong",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MAD_CASPER_SZ_AGNT_L_00_02_10_45_-_13_89.wav",
+      "label_01": "Gong",
+      "label_02": "Cowbell",
+      "label_03": "Laughter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MARBLES_SZ_PAOINT2_L_00_05_09_98_-_11_39.wav",
+      "label_01": "Fart",
+      "label_02": "Finger_snapping",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MATCHBOX_HIS_LIST_P_01_02_89.wav",
+      "label_01": "Tearing",
+      "label_02": "Snare_drum",
+      "label_03": "Finger_snapping"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MEGAFLANGE_SZ_POINTS1_L_00_04_48-_51_.wav",
+      "label_01": "Double_bass",
+      "label_02": "Bus",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MERMAID_S_HEAD_L_14_15_92.wav",
+      "label_01": "Cello",
+      "label_02": "Telephone",
+      "label_03": "Flute"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "METAL_CLIP_SZ_ENT_P_04_48_23.wav",
+      "label_01": "Knock",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Burping_or_eructation"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MONK_SZ_MED_L_07_54_76_-_56_09.wav",
+      "label_01": "Gong",
+      "label_02": "Flute",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "MYSTERY_S_VOY_O_04_12_91-001.wav",
+      "label_01": "Electric_piano",
+      "label_02": "Gong",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "NEEDLES_SZ_ENTER_L_04_03_11.wav",
+      "label_01": "Cowbell",
+      "label_02": "Squeak",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "NOISE_HARD_SZ_ENTER_00_00_38.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Snare_drum",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "NOISE_LONG_SZ_ENTER_00_30_96.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Bus",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "NOISE_SOFT_SZ_ENTER_00_43_39.wav",
+      "label_01": "Tearing",
+      "label_02": "Writing",
+      "label_03": "Hi-hat"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "OLD_CLOCKK_LAP_L_22_20_15.wav",
+      "label_01": "Computer_keyboard",
+      "label_02": "Knock",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "OPEN_SPACE_S_VIEW_L_06_31_77.wav",
+      "label_01": "Bark",
+      "label_02": "Gong",
+      "label_03": "Laughter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "PANIC_S_HEAD_L_00_04_21.wav",
+      "label_01": "Bus",
+      "label_02": "Harmonica",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "PIANO_SPILL_SZ_TRIC_L_04_17_48_-_22_44.wav",
+      "label_01": "Chime",
+      "label_02": "Flute",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "PIPELINE_S_HEAD_L_14_26_90.wav",
+      "label_01": "Cello",
+      "label_02": "Flute",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "PIXEL_BUBBLES_K_ROB_L_05_29_10_.wav",
+      "label_01": "Cowbell",
+      "label_02": "Knock",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "POLTERGEIST_SZ_PULS_L_00_06_00_31_-_02_14.wav",
+      "label_01": "Laughter",
+      "label_02": "Meow",
+      "label_03": "Bark"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "RADIO_STATIC_K_NOR_L_01_24_82.wav",
+      "label_01": "Fart",
+      "label_02": "Bus",
+      "label_03": "Microwave_oven"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ROBO_CHILL_SZ_TRIP_L_06_03_35_-_06_17_.wav",
+      "label_01": "Knock",
+      "label_02": "Chime",
+      "label_03": "Hi-hat"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ROBO_RAVE_SZ_TRIP_L_05_35_11_-_37_78.wav",
+      "label_01": "Chime",
+      "label_02": "Shatter",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "RUST_LONG_S_HEAD_P_06_02_19.wav",
+      "label_01": "Hi-hat",
+      "label_02": "Burping_or_eructation",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "RUST_MID_S_HEAD_P_06_01_60.wav",
+      "label_01": "Burping_or_eructation",
+      "label_02": "Snare_drum",
+      "label_03": "Hi-hat"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SAD_ENGINE_K_ROB_L_05_48_10.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SHAFT_K_LAP_L_19_28_50.wav",
+      "label_01": "Acoustic_guitar",
+      "label_02": "Meow",
+      "label_03": "Hi-hat"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SILKWORM_SZ_ENTER_04_42_95.wav",
+      "label_01": "Burping_or_eructation",
+      "label_02": "Telephone",
+      "label_03": "Cough"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SNR_FLAT_HI_SZ_ENTER_04_38_65.wav",
+      "label_01": "Knock",
+      "label_02": "Bass_drum",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SNR_FLAT_SZ_ENTER_04_42_12.wav",
+      "label_01": "Knock",
+      "label_02": "Bass_drum",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SNR_GLASS_HIS_HEAD_P_03_24_06.wav",
+      "label_01": "Telephone",
+      "label_02": "Flute",
+      "label_03": "Meow"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SNR_GLASS_S_HEAD_P_02_59_06.wav",
+      "label_01": "Telephone",
+      "label_02": "Flute",
+      "label_03": "Meow"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SNR_LASER_S_LIST_P_00_37_26.wav",
+      "label_01": "Telephone",
+      "label_02": "Laughter",
+      "label_03": "Cowbell"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SPACE_TRAIN_2S_VIEW_L_01_42_08.wav",
+      "label_01": "Gong",
+      "label_02": "Electric_piano",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SPEED_NEEDLES_SZ_ENTER_L_04_12_12.wav",
+      "label_01": "Cowbell",
+      "label_02": "Telephone",
+      "label_03": "Keys_jangling"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SPRING_TENSE_SZ_POINT1_O_00_09_54_64-55_50.wav",
+      "label_01": "Snare_drum",
+      "label_02": "Bass_drum",
+      "label_03": "Gunshot_or_gunfire"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "STRINGOZAURUS_3S_RHAP_O00_05_03-001.wav",
+      "label_01": "Gong",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SUPERFAST_K_LAP_L_17_29_50.wav",
+      "label_01": "Acoustic_guitar",
+      "label_02": "Squeak",
+      "label_03": "Burping_or_eructation"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SWARM_SZ_ENTER_L_06_22_11.wav",
+      "label_01": "Hi-hat",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Tambourine"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_AGNT_O_00_00_16_07_-_18_68.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Gong",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_AGNT_O_00_00_20_00_-_21_31.wav",
+      "label_01": "Finger_snapping",
+      "label_02": "Snare_drum",
+      "label_03": "Hi-hat"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_AGNT_O_00_01_27_96_-_28_75.wav",
+      "label_01": "Laughter",
+      "label_02": "Bark",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_AGNT_O_00_09_27_75_-_30_85.wav",
+      "label_01": "Snare_drum",
+      "label_02": "Double_bass",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_AGNT_O_00_13_32_58_-_35_72.wav",
+      "label_01": "Gong",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_ENTER_FX_02_06_81-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_ENTER_FX_02_12_00-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_ENTER_FX_02_17_47-001.wav",
+      "label_01": "Gong",
+      "label_02": "Double_bass",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_ENTER_FX_02_22_19-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MED_O_01_34_67_-__38_82.wav",
+      "label_01": "Gong",
+      "label_02": "Hi-hat",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MED_O_01_45_61_-_49_48.wav",
+      "label_01": "Cello",
+      "label_02": "Violin_or_fiddle",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MED_O_03_58_95-_04_00_13.wav",
+      "label_01": "Double_bass",
+      "label_02": "Knock",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MED_O_07_44_68_-__46_28.wav",
+      "label_01": "Gong",
+      "label_02": "Violin_or_fiddle",
+      "label_03": "Squeak"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MIRAC_O_02_09_92_-_13_33.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Bass_drum",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MIRAC_O_03_10_03_-_12_15.wav",
+      "label_01": "Laughter",
+      "label_02": "Cough",
+      "label_03": "Violin_or_fiddle"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_MIRAC_O_04_58_86_-_05_01_31.wav",
+      "label_01": "Fireworks",
+      "label_02": "Bark",
+      "label_03": "Meow"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT1_O_00_07_58-08_01.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Snare_drum",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT2_0_00_00_32_13_-_37_46.wav",
+      "label_01": "Gong",
+      "label_02": "Double_bass",
+      "label_03": "Acoustic_guitar"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT2_O_00_03_19_31_-_20_47.wav",
+      "label_01": "Knock",
+      "label_02": "Telephone",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT2_O_00_03_48_02_-_49_36.wav",
+      "label_01": "Gong",
+      "label_02": "Burping_or_eructation",
+      "label_03": "Violin_or_fiddle"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT2_O_00_04_28_13_-_29_20.wav",
+      "label_01": "Double_bass",
+      "label_02": "Knock",
+      "label_03": "Trumpet"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT2_O_00_04_51_00_-_51_97.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Double_bass",
+      "label_03": "Knock"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_POINT2_O_00_07_12_37_-_13_47.wav",
+      "label_01": "Knock",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_TRIC_O_06_04_12_-_04_95.wav",
+      "label_01": "Gunshot_or_gunfire",
+      "label_02": "Microwave_oven",
+      "label_03": "Drawer_open_or_close"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "SZ_TRIC_O_07_55_29_-_58_81.wav",
+      "label_01": "Chime",
+      "label_02": "Shatter",
+      "label_03": "Harmonica"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_HEAD_FX_02_11_63-001.wav",
+      "label_01": "Meow",
+      "label_02": "Telephone",
+      "label_03": "Burping_or_eructation"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_HEAD_FX_17_06_27-001.wav",
+      "label_01": "Bark",
+      "label_02": "Trumpet",
+      "label_03": "Laughter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_14_01_80-001.wav",
+      "label_01": "Gong",
+      "label_02": "Flute",
+      "label_03": "Trumpet"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_01_61-001.wav",
+      "label_01": "Bark",
+      "label_02": "Telephone",
+      "label_03": "Finger_snapping"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_07_10-001.wav",
+      "label_01": "Cough",
+      "label_02": "Laughter",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_10_32-001.wav",
+      "label_01": "Gong",
+      "label_02": "Fart",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_20_68-001.wav",
+      "label_01": "Telephone",
+      "label_02": "Snare_drum",
+      "label_03": "Fart"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_29_29-001.wav",
+      "label_01": "Telephone",
+      "label_02": "Burping_or_eructation",
+      "label_03": "Bark"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_36_10-001.wav",
+      "label_01": "Fart",
+      "label_02": "Burping_or_eructation",
+      "label_03": "Bass_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_43_16-001.wav",
+      "label_01": "Bark",
+      "label_02": "Flute",
+      "label_03": "Laughter"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_00_50_07-001.wav",
+      "label_01": "Fireworks",
+      "label_02": "Gong",
+      "label_03": "Fart"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_01_37_00-001.wav",
+      "label_01": "Bark",
+      "label_02": "Gunshot_or_gunfire",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_01_53_86-001.wav",
+      "label_01": "Snare_drum",
+      "label_02": "Laughter",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_07_16_33-001.wav",
+      "label_01": "Telephone",
+      "label_02": "Meow",
+      "label_03": "Violin_or_fiddle"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_07_17_05-001.wav",
+      "label_01": "Flute",
+      "label_02": "Telephone",
+      "label_03": "Harmonica"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_08_00_42-001.wav",
+      "label_01": "Double_bass",
+      "label_02": "Electric_piano",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_08_07_74-001.wav",
+      "label_01": "Meow",
+      "label_02": "Gong",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_08_18_20-001.wav",
+      "label_01": "Telephone",
+      "label_02": "Gong",
+      "label_03": "Violin_or_fiddle"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_08_40_33-001.wav",
+      "label_01": "Meow",
+      "label_02": "Gong",
+      "label_03": "Telephone"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_09_42_19-001.wav",
+      "label_01": "Gong",
+      "label_02": "Fart",
+      "label_03": "Burping_or_eructation"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_10_36_17-001.wav",
+      "label_01": "Flute",
+      "label_02": "Telephone",
+      "label_03": "Violin_or_fiddle"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_10_39_39-001.wav",
+      "label_01": "Flute",
+      "label_02": "Telephone",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_13_58_55-001.wav",
+      "label_01": "Gong",
+      "label_02": "Trumpet",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_LIST_FX_14_09_89-001.wav",
+      "label_01": "Gong",
+      "label_02": "Flute",
+      "label_03": "Trumpet"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_RHAP_FX_01_08_03-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Fireworks",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_RHAP_FX_05_51_02-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Meow",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_RHAP_FX_05_56_09-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Shatter",
+      "label_03": "Fireworks"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_RHAP_FX_07_12_08-001.wav",
+      "label_01": "Flute",
+      "label_02": "Cello",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_RHAP_FX_08_08_07-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Double_bass",
+      "label_03": "Cello"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_RHAP_O_00_14_00-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_FX_03_26_33-001.wav",
+      "label_01": "Chime",
+      "label_02": "Acoustic_guitar",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_FX_08_22_22-001.wav",
+      "label_01": "Squeak",
+      "label_02": "Hi-hat",
+      "label_03": "Tearing"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_FX_11_02_42-001.wav",
+      "label_01": "Trumpet",
+      "label_02": "Electric_piano",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_FX_11_07_50-001.wav",
+      "label_01": "Gong",
+      "label_02": "Flute",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_FX_11_13_85-001.wav",
+      "label_01": "Electric_piano",
+      "label_02": "Trumpet",
+      "label_03": "Gong"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_H_13_51_28-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "S_VOY_O_09_40_68-001.wav",
+      "label_01": "Gong",
+      "label_02": "Cello",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "TAJ_S_RHAP_L_09_19_02.wav",
+      "label_01": "Laughter",
+      "label_02": "Saxophone",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "ULTRAFLANGE.wav",
+      "label_01": "Double_bass",
+      "label_02": "Bus",
+      "label_03": "Snare_drum"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VEC1 BD Distortion 06.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Fart",
+      "label_03": "Double_bass"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VEC1 BD Distortion 37.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Fart"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VEC1 BD Distortion 39.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Fart"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VEC1 BD Distortion 41.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Fart"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VEC1 BD Distortion 52.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Finger_snapping"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VEC1 BD Distortion 53.wav",
+      "label_01": "Bass_drum",
+      "label_02": "Snare_drum",
+      "label_03": "Finger_snapping"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "VILLAIN_K_RESZT_06_51_72.wav",
+      "label_01": "Gong",
+      "label_02": "Flute",
+      "label_03": "Electric_piano"
+    },
+    {
+      "dir_name": "Pres",
+      "file_name": "WHISPERERSZ_MIRAC_L_00_07_62_-_09_53.wav",
+      "label_01": "Laughter",
+      "label_02": "Shatter",
+      "label_03": "Bark"
+    }
+  ]
+}

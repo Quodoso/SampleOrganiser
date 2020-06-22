@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>AudioFeature.h</itemPath>
+      <itemPath>AudioFile.h</itemPath>
+      <itemPath>CLI11.hpp</itemPath>
+      <itemPath>CLIHandler.h</itemPath>
+      <itemPath>FACM.h</itemPath>
+      <itemPath>GLCM.h</itemPath>
+      <itemPath>Haralick.h</itemPath>
+      <itemPath>Json_Handler.h</itemPath>
+      <itemPath>distanceMetric.h</itemPath>
+      <itemPath>essentiaInterface.h</itemPath>
+      <itemPath>featureSelektor.h</itemPath>
+      <itemPath>printObjects.h</itemPath>
+      <itemPath>simpleTests.h</itemPath>
+      <itemPath>statInterface.h</itemPath>
+      <itemPath>stdheader.h</itemPath>
+      <itemPath>utilities.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="hierarchCluster"
+                   displayName="hierarchCluster"
+                   projectFiles="true">
+      <itemPath>src/hierarchCluster/fastcluster.cpp</itemPath>
+      <itemPath>src/hierarchCluster/fastcluster.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>AudioFeature.cpp</itemPath>
+      <itemPath>AudioFile.cpp</itemPath>
+      <itemPath>CLIHandler.cpp</itemPath>
+      <itemPath>Json_Handler.cpp</itemPath>
+      <itemPath>distanceMetric.cpp</itemPath>
+      <itemPath>essentiaInterface.cpp</itemPath>
+      <itemPath>featureSelektor.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>printObjects.cpp</itemPath>
+      <itemPath>simpleTests.cpp</itemPath>
+      <itemPath>statInterface.cpp</itemPath>
+      <itemPath>utilities.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+      <logicalFolder name="f1"
+                     displayName="FeatureTest"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>tests/featureTest.cpp</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>/home/lars/Documents/workspace/c++/SampleOrganiser-master/src/hierarchCluster</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>6</developmentMode>
+          <commandLine>-03</commandLine>
+        </cTool>
+        <ccTool>
+          <developmentMode>6</developmentMode>
+          <architecture>2</architecture>
+          <standard>12</standard>
+          <incDir>
+            <pElem>/usr/local/include/essentia</pElem>
+            <pElem>/usr/local/include/essentia/scheduler</pElem>
+            <pElem>/usr/local/include/essentia/streaming</pElem>
+            <pElem>/usr/local/include/essentia/utils</pElem>
+          </incDir>
+          <commandLine>-O3 -s -DNDEBUG -fopenmp -D_GLIBCXX_PARALLEL -funsafe-loop-optimizations -fgraphite-identity -floop-parallelize-all</commandLine>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>6</developmentMode>
+          <commandlineTool>gfortran-8</commandlineTool>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerOptionItem>-lstdc++fs</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs essentia`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs fftw3`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs fftw3f`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libavformat`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libavcodec`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libavutil`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs samplerate`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libchromaprint`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs gsl`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libgvc`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libconfig++`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs mpi-cxx`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs yaml-0.1`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs taglib`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="AudioFeature.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AudioFeature.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AudioFile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AudioFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CLI11.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CLIHandler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CLIHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FACM.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GLCM.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Haralick.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Json_Handler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Json_Handler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="distanceMetric.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="distanceMetric.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="essentiaInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="essentiaInterface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="TestFiles/f1">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f1</output>
+        </linkerTool>
+      </folder>
+      <item path="featureSelektor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="featureSelektor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="printObjects.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="printObjects.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="simpleTests.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="simpleTests.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/hierarchCluster/fastcluster.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="src/hierarchCluster/fastcluster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="statInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="statInterface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="stdheader.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tests/featureTest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utilities.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <stripSymbols>true</stripSymbols>
+          <architecture>2</architecture>
+          <standard>12</standard>
+          <incDir>
+            <pElem>/usr/local/include/essentia</pElem>
+            <pElem>/usr/local/include/essentia/scheduler</pElem>
+            <pElem>/usr/local/include/essentia/streaming</pElem>
+            <pElem>/usr/local/include/essentia/utils</pElem>
+          </incDir>
+          <commandLine>-g3</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerOptionItem>-lessentia</linkerOptionItem>
+            <linkerOptionItem>-lfftw3</linkerOptionItem>
+            <linkerOptionItem>-lyaml</linkerOptionItem>
+            <linkerOptionItem>-lavcodec</linkerOptionItem>
+            <linkerOptionItem>-lavformat</linkerOptionItem>
+            <linkerOptionItem>-lavutil</linkerOptionItem>
+            <linkerOptionItem>-lsamplerate</linkerOptionItem>
+            <linkerOptionItem>-ltag</linkerOptionItem>
+            <linkerOptionItem>-lfftw3f</linkerOptionItem>
+            <linkerOptionItem>-lstdc++fs</linkerOptionItem>
+            <linkerOptionItem>-lchromaprint</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs essentia`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs fftw3`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs fftw3f`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs yaml-0.1`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libavformat`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libavformat`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libavutil`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libchromaprint`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs gsl`</linkerOptionItem>
+            <linkerOptionItem>`pkg-config --libs libgvc`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+      <item path="AudioFeature.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AudioFeature.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="AudioFile.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AudioFile.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CLI11.hpp" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="CLIHandler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="CLIHandler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="FACM.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="GLCM.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Haralick.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Json_Handler.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Json_Handler.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="distanceMetric.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="distanceMetric.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="essentiaInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="essentiaInterface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="TestFiles/f1">
+        <cTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f1</output>
+        </linkerTool>
+      </folder>
+      <item path="featureSelektor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="featureSelektor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="printObjects.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="printObjects.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="simpleTests.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="simpleTests.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="src/hierarchCluster/fastcluster.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="src/hierarchCluster/fastcluster.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="statInterface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="statInterface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="stdheader.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="tests/featureTest.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utilities.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
